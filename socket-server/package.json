@@ -8,7 +8,7 @@
     "express-socket.io-session": "^1.3.2",
     "micro": "latest",
     "serve-favicon": "^2.5.0",
-    "socket.io": "^2.0.3",
+    "socket.io": "^2.5.0",
     "string-hash": "^1.1.3"
   },
   "scripts": {
